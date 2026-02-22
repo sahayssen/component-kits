@@ -1,5 +1,6 @@
 
 <script>
+import { base } from '$app/paths';
 let {link, author, bio} = $props();
 </script>
 
