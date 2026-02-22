@@ -5,7 +5,7 @@ let {link, author, bio} = $props();
 </script>
 
 <section>  
-  <img src={link} width="100px"  height="100px" style="float:left">
+  <img src={base + link} width="100px"  height="100px" style="float:left">
   <h2>{author}</h2>
   <p>{bio}</p>
 </section>

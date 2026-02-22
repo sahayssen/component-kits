@@ -104,7 +104,7 @@ Some bats return to the safe roost year after year. So if you have bats in your 
   </ArticleBody>
 
   <WriterBio
-  link="/Trixie.jpg"
+  link="Trixie.jpg"
   author="Trixie Mattel"
   bio="Trixie Mattel is an American singer, actor, drag queen, cosmetics maven, renovation expert, and recognized 'Skinny Legend.'"
   />
