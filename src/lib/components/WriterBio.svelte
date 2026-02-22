@@ -2,10 +2,21 @@
 <script>
 import { base } from '$app/paths';
 let {link, author, bio} = $props();
+  // Prepend base path to local images (those starting with /)
+  // but not to external URLs (http://, https://, //, data:)
+  const resolvedSrc = $derived(
+    link.startsWith('/') && !link.startsWith('//') 
+      ? `${base}${link}` 
+      : link
+  );
 </script>
 
 <section>  
-  <img src={base + link} width="100px"  height="100px" style="float:left">
+    <img 
+    src={resolvedSrc}  
+    class="image"
+    loading="lazy"
+width="100px"  height="100px" style="float:left">
   <h2>{author}</h2>
   <p>{bio}</p>
 </section>
