@@ -98,7 +98,7 @@ This is your page!
   <WriterBio
   link="/Craig.webp"
   author="Craig Newmark"
-  bio="Craig Alexander Newmark is an American internet entrepreneur and philanthropist best known as the founder of the classifieds website Craigslist. Before founding Craigslist, he worked as a computer programmer for IBM, Bank of America, and Charles Schwab.'"
+  bio="Craig Alexander Newmark is an American internet entrepreneur and philanthropist best known as the founder of the classifieds website Craigslist. Before founding Craigslist, he worked as a computer programmer for IBM, Bank of America, and Charles Schwab."
   />
 
   <!-- Related Stories: Links to other articles -->
@@ -106,12 +106,7 @@ This is your page!
     title="Related Stories"
     links={relatedStories}
   />
-<Input
-name="Leave a comment"
-num1="0"
-num2="100"
-num3="100"
-/>
+
 </div>
 
 <style>
