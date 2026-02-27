@@ -44,7 +44,7 @@ This is your page!
 
   <!-- Lead Image: Animated gif of students at the journalism school -->
   <Image
-    src="/funny.JPG"
+    src="/example-photo.gif"
     alt="The Craig Newmark Graduate School of Journalism is at 219 West 40th Street in Midtown Manhattan."
     caption="The Craig Newmark Graduate School of Journalism is at 219 West 40th Street in Midtown Manhattan."
     credit="Craig Newmark Graduate School of Journalism"
@@ -75,16 +75,8 @@ This is your page!
     </p>
 <Dropdown
   title="Frequently Asked Questions"
-  question="How long do bats live?"
-  answer="Most bats live less than 20 years in the wild, but six species can live more than 30 years! 
-
-When a baby bat is born, it is blind and virtually helpless. They are totally reliant on their mother until they are about five weeks old, at which point they can begin flying and hunting. Some species reach full size as quickly as two months.
-
-Since baby bats are completely reliant on their mother and have little to no capacity for self-preservation, many of them die from accidents while flying or falls from high nesting places. Many bats do not live to maturity.
-
-Once bats mature, though, their mortality rate drops significantly. Bats have few natural predators and can live a very long time; although most bat species live less than 20 years in the wild, scientists have identified six species that can live in excess of 30 years. In 2006, one tiny bat from Siberia reached the ripe old age of 41—that’s the average life expectancy of an American, circa 1885!
-
-Some bats return to the safe roost year after year. So if you have bats in your attic, it might turn into a 30 year problem"
+  question="When Was CUNY Newmark founded?"
+  answer="The Craig Newmark Graduate School of Journalism at CUNY opened its doors in August 2006 as the CUNY Graduate School of Journalism. Its creation had been authorized two years earlier by then-Chancellor Matthew Goldstein and the CUNY Board of Trustees with the goals of expanding diversity in newsrooms across the nation and providing an affordable, publicly supported graduate journalism school in the New York region."
   />
     <p>
       We also offer a robust professional education program through regular evening and weekend workshops. And we support in-depth reporting projects of professional journalists through fellowship grants.
