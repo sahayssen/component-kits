@@ -60,7 +60,7 @@ This is your page!
       We fashioned a school to teach the latest storytelling, entrepreneurial, and technological skills alongside reporting, writing, and ethics. Beyond that, we’ve crafted a culture that spurns complacency, that isn’t afraid to pivot before the ground under us shifts.
     </p>
 
-  <UploadVideo url="https://www.youtube.com/watch?v=CsGYh8AacgY" />
+  <UploadVideo url="https://www.youtube.com/watch?v=TR3c65lrVzo" />
 
     <p>
       Our mission is to serve the public interest – by training new journalists from varied economic, racial, and cultural backgrounds who will bring much-needed diversity to newsrooms, by helping mid-career journalists retool their skills, and by partnering with other media organizations to find new paths to excellence.
