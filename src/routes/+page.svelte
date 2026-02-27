@@ -104,9 +104,9 @@ Some bats return to the safe roost year after year. So if you have bats in your 
   </ArticleBody>
 
   <WriterBio
-  link="Trixie.jpg"
-  author="Trixie Mattel"
-  bio="Trixie Mattel is an American singer, actor, drag queen, cosmetics maven, renovation expert, and recognized 'Skinny Legend.'"
+  link="/Craig.webp"
+  author="Craig Newmark"
+  bio="Craig Alexander Newmark is an American internet entrepreneur and philanthropist best known as the founder of the classifieds website Craigslist. Before founding Craigslist, he worked as a computer programmer for IBM, Bank of America, and Charles Schwab.'"
   />
 
   <!-- Related Stories: Links to other articles -->
